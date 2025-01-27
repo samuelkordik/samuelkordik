@@ -13,7 +13,12 @@ f- 👯 I’m looking to collaborate on ...
 - ⚡ Fun fact: ...
 -->
 
-I'm a self-taught data analyst, with most of my data background doing quality improvement, clinical research, and business analysis as part of my roles in Emergency Medical Services leadership. Most of my adult career has revolved around serving as a paramedic , working in leadership roles for an EMS agency, teaching EMTs and paramedics, and managing disasters and emergencies. The data side of my work has mostly utilized SQL, R, Tableau, Power Automate, and PowerBI to understand data patterns, gain insight into opportunities for improvement, and effectively tell stories about the performance of our people, processes, and organization. Outside of work, I enjoy building/fixing things, reading, and most of all, hanging out with my wife, our three kids, two dogs, and five chickens.
+I'm a self-taught data analyst, with most of my data background working in quality improvement, clinical research, and business analysis as part of my Emergency Medical Services leadership roles. Most of my adult career has revolved around serving as a paramedic, working in leadership roles for an EMS agency, teaching EMTs and paramedics, and managing disasters and emergencies. The data side of my work has mostly utilized SQL, R, Tableau, Power Automate, and PowerBI to understand data patterns, gain insight into opportunities for improvement, and effectively tell stories about the performance of our people, processes, and organization. Outside of work, I enjoy building/fixing things, reading, and most of all, hanging out with my wife, our three kids, and two dogs.
+
+## 💬 Ask me about:
+- How to utilize EMS data, including NEMSIS v3.5 datasets.
+- Automating EMS-related reporting and business processes.
+- Using RedCAP, Microsoft Power Platform, ESO, and ImageTrend.
 
 ## 📫 Connect with me:
 - [Twitter](https://www.twitter.com/samuelkordik)
